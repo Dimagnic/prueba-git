@@ -1,0 +1,36 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Entornos virtuales de Python
+venv/
+env/
+mi_entorno/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Docker
+.docker/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Archivos temporales
+*.tmp
+*.log
+*.swp
+*.bak
+
+# Archivos de configuración sensibles
+.env
+*.key
+*.pem
+config.local.json
